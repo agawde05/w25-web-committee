@@ -1,6 +1,6 @@
 # Basic HTML Personal Website Project - 3/10/2025
 
-A simple personal website template built with HTML, CSS, and JavaScript. Follow along with the files on Github, or work in your browser using CodePen.
+A simple personal website template built with HTML, CSS, and JavaScript. Follow along with the files on [Github](https://github.com/agawde05/w25-web-committee/), or work in your browser using [CodeSandbox](https://codesandbox.io/p/sandbox/w25-web-comittee-html-smxcqn).
 
 ## Features
 
